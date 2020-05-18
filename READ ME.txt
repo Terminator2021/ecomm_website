@@ -1,0 +1,10 @@
+By-
+Jatin Saini
+B-tech CSE 6th sem (Shoolini university)
+Registration no.-1754302007
+
+ADMIN LOG IN DETAILS- 
+USERNAME- jatin@ecomm.com
+Password- jatin
+
+Home page-ecommerce/index.php
